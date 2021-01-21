@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  border: 1px solid;
+  background: lightgrey;
+}
+
+.jokeContainer{
+  border: 1px solid orange;
+  background-color: tomato;
+  width: 80%;
+  margin: 1% auto;
+  border-radius: 10px;
+  padding: 2%;
+  color: rgb(78, 76, 73);
+}
+
+button {
+  border: none;
+  padding: 3%;
+  margin: 1% auto 3%;
+  border-radius: 5px;
+  background-color: teal;
+  color: white;
+  outline: none
+}
+
+button:hover{
+  background-color: silver;
+}
